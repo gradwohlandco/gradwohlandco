@@ -35,11 +35,7 @@
 ### Tools
 <p align="left">
   <img src="./assets/skill_icons/git.png" height="32" alt="Git" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/github.png" height="32" alt="GitHub" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/vscode.png" height="32" alt="VSCode" style="margin-right:8px;" />
 </p>
 
 ---
-
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/KevinKovacDev/KevinKovacDev/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
