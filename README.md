@@ -1,79 +1,45 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
+  👋 Hi! I'm gradwohlandco — currently training as an electrical engineer with a strong interest in software development and IT systems. I work in industrial engineering at a large sensor manufacturer, where I gain hands-on experience with real-world technical systems.
+  <br /><br />
+  My focus is on building a strong foundation in both software and hardware — especially where they intersect, such as embedded systems and industrial applications.
+  <br /><br />
+  I already work with technologies like C, Arduino, Python, HTML, CSS, JavaScript, REST APIs, PHP, SQL, and Git. I'm continuously expanding my knowledge through projects and hands-on experimentation.
+  <br /><br />
+  This page serves as a structured overview of my learning journey, projects, and technical growth as I move deeper into software development.
 </p>
 
+---
 
-<p align="center">
-  👋 Hi! I'm Kevin — a physicist by mindset, a developer by passion. I love breaking down complexity into clear, intuitive code.
-  <br /><br />
-  As Head of Mentoring and Content at the Developer Akademie, I support learners not only through guidance, but by crafting hands-on learning material that turns theory into practical skill.
-  <br /><br />
-  My drive? Making knowledge accessible — whether it's through a clean interface, a great codebase, or a well-structured lesson.
-</p>
+## 🚀 Preferred Tech Stack
 
-
-###
-##  Developer Akademie
-
-<table >
-  <tr>
-    <td><img src="./assets/da_logo.png" width="40" alt="Mentoring Icon" /></td>
-    <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
-      <span style="color: white;">Developer Akademie</span>
-    </td>
-  </tr>
-</table>
-
-## Preferred Tech Stack
-
-<h3> Frontend</h3>
+### Frontend
 <p align="left">
   <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
   <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
   <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Angular_new.png" height="32" alt="Angular" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/firebase.png" height="32" alt="Firebase" />
 </p>
 
-<h3> Backend</h3>
+### Backend / Scripting
 <p align="left">
-  <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
   <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Django.png" height="32" alt="Django" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/PHP@2x.png" height="32" alt="PHP" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" style="margin-right:8px;" />
 </p>
 
-<h3> Dev-Tools</h3>
+### Embedded / Hardware
 <p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
-  <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
-  <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
+  <img src="./assets/skill_icons/C.png" height="32" alt="C" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Arduino.png" height="32" alt="Arduino" style="margin-right:8px;" />
 </p>
 
-###
+### Tools
+<p align="left">
+  <img src="./assets/skill_icons/git.png" height="32" alt="Git" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/github.png" height="32" alt="GitHub" style="margin-right:8px;" />
+</p>
 
+---
 
-
-##  GitHub Stats
-
-<div align="center" style="margin-bottom: 48px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinKovacDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinKovacDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-##  SNAKE!
+## 🐍 Snake Animation
 
 <img src="https://raw.githubusercontent.com/KevinKovacDev/KevinKovacDev/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
-
-###
-
-##  Contact
-
-  <a href="https://de.linkedin.com/in/kevin-kovac-8b78721a9" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-    <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
-  </a>
-
-###
